@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="90448a0c-1f82-465b-9e4c-14e12ef5d368" />
+  <component name="Black">
+    <option name="sdkName" value="C:\Users\caramirezs\anaconda3" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="C:\Users\caramirezs\anaconda3" project-jdk-type="Python SDK" />
 </project>
